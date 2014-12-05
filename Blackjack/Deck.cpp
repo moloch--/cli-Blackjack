@@ -4,6 +4,7 @@
  *  Created on: 2010-10-26
  */
 #include <ctime>
+#include <cstdlib>
 #include <algorithm>
 #include <vector>
 #include "Card.h"
